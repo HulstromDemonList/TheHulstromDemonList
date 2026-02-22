@@ -34,13 +34,13 @@ All submissions are manually reviewed by me.
 Submit a 0–100% completion of an already verified list level.
 
 ### Submit a Verification
-If you are the original verifier of a list-worthy level, submit proof to receive verification credit.
+If you are the verifier of a list level, submit "proof" to receive credit.
 
 ### Submit a Notable Percentage
-High-percentage runs (meeting the minimum requirement) can be submitted for recognition and partial points.
+High-percentage runs (meeting the minimum requirement) can be submitted for partial points.
 
 ### Climb the Rankings
-Earn points from completed levels and compete for a higher global placement.
+Earn points from completed levels and compete for a higher placement.
 
 ### Track Your Stats
 View your profile to see:
