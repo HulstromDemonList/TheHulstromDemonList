@@ -4,6 +4,4 @@
 --- 
 
 What is the Hulstrom Demon List?
-<p align="center">
-  The Hulstrom Demon List is a public `website` available for all people to look at the hardest levels on the `Hulstrom` version of Geometry Dash
-</p>
+- The Hulstrom Demon List is a public `website` available for all people to look at the hardest levels on the `Hulstrom` version of Geometry Dash
