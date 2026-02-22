@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 About
+## About
 
 The **Hulstrom Demon List** is a competitive ranking platform for the hardest levels on the Hulstrom version of Geometry Dash.
 
@@ -15,7 +15,7 @@ Inspired by platforms such as Pointercrate.net and AREDL.net.
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ### Level Placement
 - Levels are reviewed and ranked based on difficulty.
@@ -28,7 +28,7 @@ All submissions are manually reviewed by me.
 
 ---
 
-## 🏆 What You Can Do
+## What You Can Do
 
 ### Submit a Completion
 Submit a 0–100% completion of an already verified list level.
@@ -50,7 +50,7 @@ View your profile to see:
 
 ---
 
-## 📊 Points System
+## Points System
 
 The Hulstrom Demon List uses a weighted point structure:
 
@@ -61,7 +61,7 @@ The goal is to reward both difficulty and consistency.
 
 ---
 
-## 📈 Stats Viewer
+## Stats Viewer
 
 The stats viewer allows you to:
 
@@ -71,14 +71,14 @@ The stats viewer allows you to:
 
 ---
 
-## 🎮 Game Download
+## Game Download
 
 Participation requires the Hulstrom-compatible build of Geometry Dash.
 Download links and setup instructions are available on the official site.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions:
 
