@@ -11,7 +11,7 @@
 
 The **Hulstrom Demon List** is a competitive ranking platform for the hardest levels on the Hulstrom version of Geometry Dash.
 
-Inspired by platforms such as Pointercrate.net and AREDL.net.
+Inspired by platforms such as `Pointercrate.net` and `AREDL.net`.
 
 ---
 
